@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  bash:"/H3-uiuxpage/"
+  base:"/H3-uiuxpage/"
 })
